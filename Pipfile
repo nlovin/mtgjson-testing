@@ -8,6 +8,7 @@ pandas = "*"
 notebook = "*"
 python-dotenv = "*"
 requests = "*"
+pexpect = "*"
 
 [dev-packages]
 
