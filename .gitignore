@@ -130,3 +130,5 @@ dmypy.json
 
 # Data types
 .zip
+/data/raw/AllPrintings.json
+/data/tmp/AllPrintings.json.zip
