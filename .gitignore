@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Data types
-.zip
-/data/raw/AllPrintings.json
-/data/tmp/AllPrintings.json.zip
+/data/tmp/*.zip
+/data/raw/*.json
+/data/out/*.pickle
+/data/out/*.csv
